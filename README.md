@@ -15,3 +15,5 @@ I have use RandomForest Regression:
   2) Uses RandomSearchCV and get a Training and Testing Score 78.98% and 78.29% which is a good sign of a model.
   3) I want to use GridSearchCV but i have a very low processor so it is taking very very much time so,i left it.
   4) After that i have save the model in pkl file so that i can use it in PyCharm for making app.
+# Deployment Link:
+https://flightpredictionproject-production.up.railway.app/
